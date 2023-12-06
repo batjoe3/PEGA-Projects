@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-07-01
+Pega-Codeset-Version: 06-01-01
+ArtifactName: DrugPurchaseR
+Synchronizable: false
+ArtifactVersion: 20230728.072256
+Type: Product
+Product-Creation-Date: 2023-Jul-28 00:00:00
+Version: 20230728.072256
+PRPC-Engine: 8.7.0 PRPC-8.7.0-163 ()
+Operator: Magent@CUREX
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: DrugPurchaseR
+Archive-Type: PegaArchive
+Export-Date: 2023-Jul-28 17:00:23
+Pega-Codeset-Name: Customer
+Instance-Count: 82938
+
+Name: FileMetadata
+
