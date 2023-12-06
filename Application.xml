@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<application name="DrugPurchaseR 20230728.072256" description="" >
+	<parfile name="CUREX_dbconfig.jar" order="1" dbconfig="true" />
+	<sarfile name="CUREX_schema.jar" order="2"/>
+	<parfile name="CUREX_rules.jar" order="3"/>
+</application>
